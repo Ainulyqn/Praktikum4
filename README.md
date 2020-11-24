@@ -81,7 +81,7 @@ Untuk keluar dari perulangan kita hanya perlu menginputkan 't' apabila diminta p
 
 # Pertemuan 9 Modul 5 <br>
 Pada Pertemuan 9 Modul 5 dosen memberikan saya tugas untuk membuat program sederhana yang akan menampilkan daftar nilai mahasiswa. berikut soal yang dosen berikan: <br>
-![gambar](Gamabar/gambar4.png) <br>
+![gambar](Gambar/gambar4.png) <br>
 # Penjelasan : <br>
 * Penggunaan if c.lower() if c.lower() fungsinya apabila user menginputkan dengan huruf besar, maka otomatis akan menjadi huruf kecil sehingga kondisi yang diinginkan tercapai. contoh: `if c.lower() == 'q'` <br>
 * Penggunaan while True while True berfungsi untuk mendeteksi jika format yang diinputkan bukan berupa type maka akan muncul eror <br>
